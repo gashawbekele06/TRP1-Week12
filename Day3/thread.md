@@ -95,17 +95,17 @@ p > 0.05, Δ still ~14pp → check eval rubric stability.
 
 ---
 
-## Tweet 6 / 6 — Honest Punchline + Link
-*(~255 chars + URL)*
+## Tweet 6 / 6 — Confirmed Outcome + Link
+*(~270 chars + URL)*
 
 ```
-Key insight: "not significant" ≠ "no effect."
+Update from @NebiyouAbebe: he ran 100 tasks.
 
-With n=50 and 73% power (two-tailed), there is a 27%
-chance of missing a real +14pp lift.
+Result: significant. Training worked. ✅
+Remaining gap = 0.6B capacity ceiling, not a training failure.
 
-Blame the training only after n=100 rules out
-the sample-size explanation.
+"Not significant" at n=50 was a measurement problem,
+not a model problem.
 
 Full explainer 👇
 [ADD BLOG URL HERE]
