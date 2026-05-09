@@ -76,7 +76,7 @@ Three things to remember:
 2. Tokens = 85 + 170×tiles — know your page dimensions before setting budget caps
 3. Two-pass (low-detail triage → high-detail extraction) beats one-pass always
 
-Full explainer with token calculator and budget table: [link to blog post]
+Full explainer with token calculator and budget table: https://medium.com/@gashawbekelek/how-tool-selection-actually-works-in-function-calling-agents-3e42bb32c6e8
 
 Sources:
 → Dosovitskiy et al. 2021 — arXiv:2010.11929 (ViT patch embedding)
