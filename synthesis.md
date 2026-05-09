@@ -1,5 +1,6 @@
 # synthesis.md — Week 12 Knowledge Synthesis
 
+**Published:** https://medium.com/p/376c7ea61db1
 **Author:** Gashaw Bekele
 **Date:** 2026-05-08
 **Period covered:** Week 12, Days 1–4
