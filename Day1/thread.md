@@ -102,14 +102,14 @@ Root cause: 0.5B backbone attention-copies banned phrases from input.
 A capacity problem — not a serving bug.
 
 Full explainer 👇
-[ADD BLOG URL HERE]
+https://medium.com/@gashawbekelek/lora-merged-vs-unmerged-the-three-conditions-that-break-equivalence-e055d6692cf3
 ```
 
 ---
 
 ## Pre-post checklist
 
-- [ ] Replace `[ADD BLOG URL HERE]` in Tweet 6 with your actual blog post URL  
+- [x] Replace `[ADD BLOG URL HERE]` in Tweet 6 with your actual blog post URL ✅  
 - [ ] Post Tweet 1 first, then reply to each tweet in the chain (1 → 2 → 3 → 4 → 5 → 6)  
 - [ ] Do NOT add formatting symbols — no asterisks, no backticks, no markdown  
 - [ ] Each tweet is a reply to the previous one, keeping the thread connected  

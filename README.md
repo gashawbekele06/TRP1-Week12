@@ -115,6 +115,18 @@ by ~5× near p̄ ≈ 0.57. The correct formula is Cohen's d_z = mean(Δ)/std(Δ)
 
 ---
 
+## Public Artifacts
+
+| # | Topic | Blog Post | Tweet Thread |
+|---|-------|-----------|-------------|
+| 1 | LoRA Merged vs Unmerged | [Medium ↗](https://medium.com/@gashawbekelek/lora-merged-vs-unmerged-the-three-conditions-that-break-equivalence-e055d6692cf3) | ⬜ to be posted |
+| 2 | How Tool Selection Works | [Medium ↗](https://medium.com/@gashawbekelek/how-tool-selection-actually-works-in-function-calling-agents-3e42bb32c6e8) | ⬜ to be posted |
+| 3 | Why SFT Cannot Suppress Tokens | ⬜ to be published | ⬜ to be posted |
+| 4 | Cohen's h vs Cohen's d_z | ⬜ to be published | ⬜ to be posted |
+| 5 | Week 12 Synthesis | ⬜ to be published | ⬜ to be posted |
+
+---
+
 ## Week 11 Artifact Changes (Applied During Week 12)
 
 | File | Change |
